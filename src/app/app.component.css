@@ -1,0 +1,17 @@
+.topNav{
+    width: 100%;
+    text-align: center;
+    background-color: red;
+}
+
+.secondNav{
+    width: 100%;
+    text-align: center;
+    background-color: blue;
+}
+
+.main-layout{
+    display: flex;
+    justify-content: space-between;
+    background-color: grey
+}
